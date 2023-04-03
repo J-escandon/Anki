@@ -1,0 +1,6 @@
+<div class=frontbg>
+{{cloze:Texto}}
+<div style='font-family: Arial; font-style: italic; font-size: 15px;'>[{{Info}}]</div>
+</div>
+<div class=backbg>
+</div> 	
