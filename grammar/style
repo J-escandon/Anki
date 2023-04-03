@@ -1,0 +1,106 @@
+.card {
+  font-family:Helvetica;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: #808080;
+}
+
+.mobile .card {
+  font-family: Helvetica;
+  text-align: center;
+  color: black;
+  background-color: #808080;
+}
+
+.frontbg {
+  background-color: #0F1626;
+  border-radius: 7px;
+  color: #F5F5F5;
+  position: relative;
+  left: 0;
+  padding: 2%;
+  font-size: 100%;
+}
+
+.mobile .frontbg {
+  background-color: #0F1626;
+  border-radius: 7px;
+  color: #F5F5F5;
+  position: relative;
+  left: 0;
+  padding: 5%;
+  font-size: 150%;
+}
+
+.others {
+  position: relative;
+  top: 15px;
+  border: 1px dotted #72c8e1;
+  color: #18adab;
+  font-size: 20px;
+  width: auto;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-bottom: 35px;
+}
+
+.mobile .others {
+  position: relative;
+  top: 10px;
+  border: 1px dotted #72c8e1;
+  color: #18adab;
+  font-size: 17px;
+  width: auto;
+  padding-top: 8px;
+  padding-left: 15px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  margin-bottom: 20px;
+}
+
+.backbg {
+  position: relative;
+  top: -3px;
+  background-color: #ffff;
+  padding: 5%;
+  border-radius: 0px 0px 10px 10px;
+  color: #016ea6;
+  font-size: 80%;
+  text-align: left;
+}
+
+.mobile .backbg {
+  position: relative;
+  top: -5px;
+  background-color: #ffff;
+  padding: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 0px 0px 10px 10px;
+  color: #016ea6;
+  font-size: 150%;
+  text-align: left;
+  }
+
+b {
+  text-decoration: none;
+  color: #AB987A
+}
+
+u {
+  text-decoration: none;
+  color: #AB987A
+}
+
+.cloze{
+  font-weight: bold; 
+  color: #FF533D;
+}
+
+#source{
+  font-size: 50%;
+}
